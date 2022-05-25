@@ -1,0 +1,12 @@
+.isorine {
+    border: 1px solid black;
+    display:flex;
+
+  }
+  
+  .vidine {
+    width: 33%;
+    background-color: blue;
+    border: 5px solid black;
+    border-radius: 4px;
+  }
